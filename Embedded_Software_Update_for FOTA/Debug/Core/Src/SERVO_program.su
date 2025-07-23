@@ -1,0 +1,3 @@
+SERVO_program.c:8:10:AppMap	8	static
+SERVO_program.c:15:6:SERVO_voidInit	8	static
+SERVO_program.c:19:6:SERVO_voidRotate	0	static

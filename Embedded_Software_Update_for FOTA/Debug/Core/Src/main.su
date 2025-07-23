@@ -1,0 +1,15 @@
+main.c:942:6:set_motor_direction.part.1	16	static
+main.c:336:6:SystemClock_Config	88	static
+main.c:880:9:Str_Contains	12	static
+main.c:854:6:AI_Handling	80	static
+main.c:810:6:HAL_UART_RxCpltCallback	16	static
+main.c:936:6:set_motor_speed	8	static
+main.c:942:6:set_motor_direction	16	static
+main.c:895:6:update_movement	80	static
+main.c:952:10:get_distance	48	static
+main.c:1259:9:check_parking_space	8	static
+main.c:1269:6:buzzer_beep	24	static
+main.c:1002:6:self_parking_mode	104	static
+main.c:188:5:main	184	static
+main.c:1278:9:check_collision_front	8	static
+main.c:1296:6:Error_Handler	0	static
