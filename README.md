@@ -65,7 +65,8 @@ While my focus was on **Embedded Systems & FOTA**, the full project included:
 - **Programming**: Embedded C  
 - **Communication Protocols**: UART, PWM, GPIO  
 - **AI/Software**: Google Speech-to-Text (Voice Assistant)  
-<img src="c.png" width="600"/>  
+<img src="c.png" width="600"/>
+👉 Full Schematic diagram for All Systems in the project
 ---
 
 ## 📁 Repository Structure  
